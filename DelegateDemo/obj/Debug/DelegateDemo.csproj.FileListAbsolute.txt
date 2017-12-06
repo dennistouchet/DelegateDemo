@@ -1,0 +1,7 @@
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\Trey\Documents\Visual Studio 2017\Projects\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb
